@@ -24,7 +24,7 @@ const Navbar = () => {
 
       <div
         className="lg-flexCenter 
-      {/*hidden*/}
+      hidden
       "
       >
         <Button type="button" title="login" variant="btn_dark_green" />
